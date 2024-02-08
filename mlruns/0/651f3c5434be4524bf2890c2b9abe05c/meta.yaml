@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/koq1231/PycharmProjects/MLflow/pythonProject1/mlflow/mlruns/0/651f3c5434be4524bf2890c2b9abe05c/artifacts
+end_time: 1707373129638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 651f3c5434be4524bf2890c2b9abe05c
+run_name: selective-shrike-372
+run_uuid: 651f3c5434be4524bf2890c2b9abe05c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707373126424
+status: 3
+tags: []
+user_id: koq1231
